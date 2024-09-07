@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ritika821. I'm a Fresher Data Analyst and currently seeking for job. I've completed my graduation degree from St. Xavier's College of Management & Technology in Bachelor's of Business Economics.
+- 👋 Hi, I’m Ritika. I'm a Fresher Data Analyst and currently seeking for job. I've completed my graduation degree from St. Xavier's College of Management & Technology in Bachelor's of Business Economics.
 - 👀 I’m interested in creative things like art and craft, dancing, singing etc. and also learning new things to leverage my knowledge and skills.
 - 🌱 I’m currently learning Data Analysis and creating effective, interactive and attractive Dashboards.
 - 💞️ I’m looking for any employment opportunities to exhibit my skills to the public.
