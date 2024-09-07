@@ -2,13 +2,16 @@
 
 
 
-### 👋 I'm a Data Analyst with a base knowledge in Business Economics and Statistics.
+### 👋 I'm a Data Analyst with the core knowledge in Business Economics and Statistics.
+
 
 <img align="right"  width="400" src="https://i.pinimg.com/736x/97/d4/4b/97d44b6c72d9ee592a504e1e12d223d6.jpg">
 
-- 🏫 I've completed my graduation degree from St. Xavier's College of Management & Technology in **Bachelor's of Business Economics**.
+- 🏫 I've completed my graduation degree from **St. Xavier's College of Management & Technology** in **Bachelor's of Business Economics**.
   
-- 👀 I’m interested in creative things like *art and craft, dancing, singing etc.* and also *learning new things* to leverage my knowledge and skills.
+- 👀 I’m interested in doing creative things and also **learning new things** to leverage my knowledge and skills.
+
+- 🙍🏻 I'm an *enthusiastic, highly energetic and a creative person with full of paitence*.
   
 - 🌱 I’m currently learning **Data Analysis** and creating effective, interactive and attractive **Dashboards**.
 
@@ -22,10 +25,11 @@
   
 - 😄 Pronouns: *She / Her*
   
-- ⚡ Fun fact: *I'm an enthusiastic person, highly energetic and as a fresher I can learn more as much as you want and can shape me according to your company requirement.*
+- ⚡ Fun fact: *I love drawing, painting, dancing and singing*
 
 
-#### Languages & Tools:
+
+#### - Languages & Tools:
 <p align="left">
 <a herf="https://www.microsoft.com/en-in/microsoft-365/p/excel/cfq7ttc0hr4r" target="blank"><img align="centre" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40" height="40" />
 </a> 
@@ -50,7 +54,8 @@
 </p>
 
 
-#### Connect with me:
+
+#### - Connect with me:
 <p align="left">
 <a herf="https://www.linkedin.com/in/ritika-data-analyst/" target="blank"><img align="centre" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="40" height="40" />
 </a>
