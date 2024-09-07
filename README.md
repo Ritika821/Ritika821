@@ -4,6 +4,6 @@
 - 💞️ I’m looking for any employment opportunities to exhibit my skills to the public.
 - 📫 You can reach me on Linkedin, Naukri or even on Github. Here are the links.
 - * Linkedin - www.linkedin.com/in/ritika-data-analyst
-  * Naukri - https://www.naukri.com/mnjuser/homepage
+  * Naukri - https://www.naukri.com/mnjuser/profile?id=&altresid
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I'm an enthusiastic person, highly energetic and as a fresher I can learn more as much as you want and can shape me according to your company requirement.
