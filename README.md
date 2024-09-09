@@ -31,25 +31,25 @@
 
 #### - Languages & Tools:
 <p align="left">
-<a herf="https://www.microsoft.com/en-in/microsoft-365/p/excel/cfq7ttc0hr4r" target="blank"><img align="centre" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40" height="40" />
+<a href="https://www.microsoft.com/en-in/microsoft-365/p/excel/cfq7ttc0hr4r" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40" height="40" />
 </a> 
-- <a herf="https://www.python.org/" target="blank"><img align="centre" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40" /> 
+<a href="https://www.python.org/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40" /> 
 </a>
-- <a herf="https://pandas.pydata.org/" target="blank"><img align="centre" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" width="40" height="40" /> 
+<a href="https://pandas.pydata.org/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" width="40" height="40" /> 
 </a>
-- <a herf="https://seaborn.pydata.org/" target="blank"><img align="centre" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" /> 
+<a href="https://seaborn.pydata.org/" target="blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" /> 
 </a>
-- <a herf="https://numpy.org/" target="blank"><img align="centre" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxemkRrkkw2UJqMSjLPuzZEASP6DJSoEW2Q&s" alt="Numpy" width="40" height="40" /> 
+<a href="https://numpy.org/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxemkRrkkw2UJqMSjLPuzZEASP6DJSoEW2Q&s" alt="Numpy" width="40" height="40" /> 
 </a>
-- <a herf="https://matplotlib.org/" target="blank"><img align="centre" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" width="40" height="40" /> 
+<a href="https://matplotlib.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" width="40" height="40" /> 
 </a>
-- <a herf="https://www.mysql.com/" target="blank"><img align="centre" src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-2048x1064-jfbaqrzh.png" alt="MySQL" width="60" height="40" /> 
+<a href="https://www.mysql.com/" target="blank"><img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-2048x1064-jfbaqrzh.png" alt="MySQL" width="60" height="40" /> 
 </a>
-- <a herf="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="blank"><img align="centre" src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png" alt="Power BI" width="40" height="40" /> 
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="blank"><img src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png" alt="Power BI" width="40" height="40" /> 
 </a>
-- <a herf="https://www.tableau.com/" target="blank"><img align="centre" src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Tableau" width="40" height="40" /> 
+<a href="https://www.tableau.com/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Tableau" width="40" height="40" /> 
 </a>
-- <a herf="https://www.ibm.com/spss" target="blank"><img align="centre" src="https://e7.pngegg.com/pngimages/291/81/png-clipart-e-logo-spss-modeler-ibm-data-analysis-statistics-ibm-blue-text-thumbnail.png" alt="IBM SPSS" width="40" height="40" /> 
+<a href="https://www.ibm.com/spss" target="blank"><img src="https://e7.pngegg.com/pngimages/291/81/png-clipart-e-logo-spss-modeler-ibm-data-analysis-statistics-ibm-blue-text-thumbnail.png" alt="IBM SPSS" width="40" height="40" /> 
 </a>
 </p>
 
@@ -57,10 +57,10 @@
 
 #### - Connect with me:
 <p align="left">
-<a herf="https://www.linkedin.com/in/ritika-data-analyst/" target="blank"><img align="centre" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="40" height="40" />
+<a href="https://www.linkedin.com/in/ritika-data-analyst/" target="blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="40" height="40" />
 </a>
-- <a herf="https://www.instagram.com/ritika_singh141/?hl=en" target="blank"><img align="centre" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram" width="40" height="40" />
+<a href="https://www.instagram.com/ritika_singh141/?hl=en" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram" width="40" height="40" />
 </a>
-- <a herf="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img align="centre" src="https://play-lh.googleusercontent.com/76gEFhQto5xMHr2Qf8nWLvm1s0O60clhkwHvxQDSeI3hthf7Zs05JJQeyg5H347DGQ" alt="Naukri" width="40" height="40" />
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img src="https://play-lh.googleusercontent.com/76gEFhQto5xMHr2Qf8nWLvm1s0O60clhkwHvxQDSeI3hthf7Zs05JJQeyg5H347DGQ" alt="Naukri" width="40" height="40" />
 </a>
 </p>
